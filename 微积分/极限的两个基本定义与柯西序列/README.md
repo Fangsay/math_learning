@@ -1,11 +1,13 @@
 例1为 $\epsilon-N \ 定义$ 的简单实例
 
 $\varepsilon-N \ 定义$：
+
 $$
 \lim_{n \to \infty}{a_n}=L \Leftrightarrow \forall \varepsilon >0,\ 
 \exists N \in \mathbb{N_+},\ \forall n >N:\ 
 |a_n-L|<\varepsilon
 $$
+
 其中涉及的数列：
 $$
 a_n=5n\ln(\frac{10}{n}+1)
