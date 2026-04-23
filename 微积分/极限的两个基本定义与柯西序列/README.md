@@ -14,7 +14,7 @@ $$
 a_n=5n\ln(\frac{10}{n}+1)
 $$
 
-![例1图](./example1.png)
+![例1图](./例1.png)
 
 
 例2为 $\varepsilon-\delta \ 定义$ 的简单实例
