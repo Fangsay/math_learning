@@ -1,13 +1,5 @@
 例1为 $\epsilon-N \ 定义$ 的简单实例
 
-$\varepsilon-N \ 定义$：
-
-$$
-\lim_{n \to \infty}{a_n}=L \Leftrightarrow \forall \varepsilon >0,\ 
-\exists N \in \mathbb{N_+},\ \forall n >N:\ 
-|a_n-L|<\varepsilon
-$$
-
 其中涉及的数列：
 
 $$
@@ -18,14 +10,6 @@ $$
 
 
 例2为 $\varepsilon-\delta \ 定义$ 的简单实例
-
-$\varepsilon-\delta \ 定义$：
-
-$$
-\lim_{x \to x_0}{f(x)} = L \Leftrightarrow 
-\forall \varepsilon > 0,\ \exists \delta > 0,\ |x-x_0| < \delta : \ 
-|f(x)-L| < \varepsilon
-$$
 
 其中涉及的函数：
 
@@ -46,9 +30,27 @@ $$
 ![例3.图](./例3.png)
 
 ---
+
+**$\varepsilon-N \ 定义$**：
+
+$$
+\lim_{n \to \infty}{a_n}=L \Leftrightarrow \forall \varepsilon >0,\ 
+\exists N \in \mathbb{N_+},\ \forall n >N:\ 
+|a_n-L|<\varepsilon
+$$
+
+**$\varepsilon-\delta \ 定义$**：
+
+$$
+\lim_{x \to x_0}{f(x)} = L \Leftrightarrow 
+\forall \varepsilon > 0,\ \exists \delta > 0,\ |x-x_0| < \delta : \ 
+|f(x)-L| < \varepsilon
+$$
+
+
 例1也可以看做柯西序列的简单实例，但这个例子并不严谨，因为柯西序列并不通过极限值定义，而是通过项之间的距离描述。
 
-柯西序列：
+**柯西序列**：
 
 $$
 \forall \varepsilon >0,\ 
