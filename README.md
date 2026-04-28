@@ -5,3 +5,7 @@
 暂定范围：高等数学、线性代数、概率论
 
 主要工具：GeoGebra
+
+*注：内容可能有误*
+
+*#Unreliable auther*
