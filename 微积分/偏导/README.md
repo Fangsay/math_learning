@@ -33,7 +33,7 @@ $$
 z=\frac{\partial^2{f}}{\partial{x}\partial{y}}=1
 $$
 
-![图2](./mixed_partial_derivative.m)
+![图2](./mixed_partial_derivative.gif)
 
 ---
 偏导数是空间曲面沿x方向或y方向的导数， 一般偏导函数的几何意义与一元导函数差不多，
