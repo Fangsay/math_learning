@@ -26,7 +26,7 @@
   Zd = -4.*ones(size(x));
   Yd = y;
   Xd = dxy*Yd;
-  h3 = plot3(Xd,Yd,Zd,'r','Linewidth',2,'DisplayName','偏导函数');
+  h3 = plot3(Xd,Yd,Zd,'r','Linewidth',2,'DisplayName','混合偏导函数');
   
   %设置滑块
   x0 = 4;
